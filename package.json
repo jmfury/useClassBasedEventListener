@@ -1,0 +1,27 @@
+{
+  "name": "useclassbasedeventlistener",
+  "version": "0.1.0",
+  "description": "A React hook for listening to events on other DOM elements via className",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMFURY/useClassBasedEventListener.git"
+  },
+  "keywords": [
+    "React",
+    "Hooks",
+    "EventListeners"
+  ],
+  "author": "Jimmy Merritello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMFURY/useClassBasedEventListener/issues"
+  },
+  "homepage": "https://github.com/JMFURY/useClassBasedEventListener#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}

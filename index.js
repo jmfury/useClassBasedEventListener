@@ -11,7 +11,7 @@ export default function useClassBasedEventListener(
     let elementArray = document.getElementsByClassName(elementClass)
 
     // Add the event listener to all elements in the array
-    for (let i = 0; i < classnameArray.length; i++) {
+    for (let i = 0; i < elementArray.length; i++) {
       elementArray[i].addEventListener(eventParam, handler, passive)
     }
 
